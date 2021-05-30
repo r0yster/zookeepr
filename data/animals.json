@@ -101,40 +101,22 @@
       ]
     },
     {
-      "name": "Spongebob",
-      "species": "lemur",
-      "diet": "herbavore",
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "omnivore",
       "personalityTraits": [
-        "thirsty"
+        "Hungry"
       ],
       "id": "10"
     },
     {
-      "name": "Spongebob",
-      "species": "lemur",
-      "diet": "herbavore",
+      "name": "Homer",
+      "species": "Squid",
+      "diet": "carnivore",
       "personalityTraits": [
-        "thirsty"
+        "goofy"
       ],
       "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "12",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
     }
   ]
 }
